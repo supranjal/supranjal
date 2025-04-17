@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and a student of
 - 💻 Currently working on improving my web development skills, especially **HTML**, **CSS**, **JavaScript**, and exploring full-stack development.
 - 🌱 I’m currently learning **React**, **Node.js**, and diving deeper into **Cloud Technologies**.
 - 💡 I love solving problems and building useful applications that make life easier.
-- 📚 I’m a first-semester **CSIT student**, always keen to learn and grow.
+- 📚 I’m a  **CSIT student**, always keen to learn and grow.
 - 🎮 When I’m not coding, I enjoy playing games, reading, and exploring new tech trends.
 
 ## 🔧 Technologies & Tools
@@ -18,9 +18,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** and a student of
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VS Code, Cloudflare Pages
 
-## 📈 GitHub Stats
 
-![Supranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supranjalkhadka&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
